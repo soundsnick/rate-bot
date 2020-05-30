@@ -1,0 +1,13 @@
+bot:
+  token: "1088752721:AAF7sp9zrOU2hstgCyxpjL29wNLNy35aba8" # Bot API access token
+api:
+  token: "123123123" # Access token for bot's HTTP service
+  ip: "127.0.0.1" # Server ip
+  port: 8888 # Server port
+  api_host: "http://35.228.12.80:9090" # Service REST API host
+
+# Database tables
+tables:
+  - users
+  - history
+  - context
